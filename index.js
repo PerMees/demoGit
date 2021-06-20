@@ -19,3 +19,7 @@ const checkTask = () => {
 const testCompleted = () => {
   console.log("testComplete");
 };
+
+const doneTask = () => {
+  console.log("doneTask");
+};
